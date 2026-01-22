@@ -48,8 +48,8 @@ Desenvolver uma base sólida em Python e dados, evoluindo para atuar profissiona
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=samaracariolano&show_icons=true&include_all_commits=true&theme=dracula" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samaracariolano&layout=compact&langs_count=5&theme=dracula" height="150" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=samaracariolano&show_icons=true&theme=dracula&hide=contribs" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samaracariolano&layout=compact&langs_count=5&theme=dracula" height="150" />
 </div>
 
 ###
