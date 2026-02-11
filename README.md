@@ -4,7 +4,7 @@
 
 <h5 align="left">
 🎓 Graduanda em Análise e Desenvolvimento de Sistemas (ADS)<br>
-📊 Em formação contínua na área de Análise de Dados e Análise de Sistemas
+📊 Em formação contínua na área de Análise e Automação de Sistemas
 </h5>
 
 ###
@@ -18,7 +18,6 @@ Desenvolver uma base sólida em Python e dados, evoluindo para atuar profissiona
 
 <h5 align="left">
 🧠 Áreas de Interesse<br><br>
-- Análise de Dados<br>
 - Análise de Sistemas<br>
 - Manipulação e tratamento de dados<br>
 - Estruturação de informações<br>
