@@ -3,15 +3,15 @@
 ###
 
 <h5 align="left">
-🎓 Graduanda em Análise e Desenvolvimento de Sistemas (ADS)<br>
-📊 Em formação contínua na área de Análise e Automação de Sistemas
+🎓 Graduanda em Análise e Desenvolvimento de Sistemas<br>
+📊 Em formação contínua na área de Análise de Dados e Automação de Sistemas
 </h5>
 
 ###
 
 <h5 align="left">
 🚀 Objetivo<br>
-Desenvolver uma base sólida em Python e dados, evoluindo para atuar profissionalmente com análise de dados e sistemas, aplicando boas práticas, organização e pensamento analítico.
+Desenvolver uma base sólida em Python, dados e automações, aplicando boas práticas, organização e pensamento analítico.
 </h5>
 
 ###
@@ -19,6 +19,7 @@ Desenvolver uma base sólida em Python e dados, evoluindo para atuar profissiona
 <h5 align="left">
 🧠 Áreas de Interesse<br><br>
 - Análise de Sistemas<br>
+- Análise de dados<br>
 - Manipulação e tratamento de dados<br>
 - Estruturação de informações<br>
 - Automação de processos
